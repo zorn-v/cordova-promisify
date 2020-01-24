@@ -1,0 +1,23 @@
+{
+  "name": "cordova-promisify",
+  "version": "1.0.0",
+  "description": "Analog of nodejs util.promisify for cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorn-v/cordova-promisify.git"
+  },
+  "keywords": [
+    "cordova",
+    "promisify"
+  ],
+  "author": "zorn-v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zorn-v/cordova-promisify/issues"
+  },
+  "homepage": "https://github.com/zorn-v/cordova-promisify#readme"
+}
