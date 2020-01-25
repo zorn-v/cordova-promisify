@@ -12,7 +12,8 @@
   },
   "keywords": [
     "cordova",
-    "promisify"
+    "promisify",
+    "promise"
   ],
   "author": "zorn-v",
   "license": "ISC",
