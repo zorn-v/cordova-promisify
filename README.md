@@ -1,4 +1,10 @@
+# Install
+
+`npm i @zorn-v/cordova-promisify`
+
 # Usage example
+
+Use like nodejs `require('util').promisify`
 
 ```js
 const cdvPromise = require('cordova-promisify')
