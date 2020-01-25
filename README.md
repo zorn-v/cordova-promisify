@@ -1,6 +1,6 @@
 # Install
 
-`npm i @zorn-v/cordova-promisify`
+`npm i cordova-promisify`
 
 # Usage example
 
