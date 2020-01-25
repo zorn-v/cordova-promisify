@@ -1,5 +1,5 @@
 {
-  "name": "@zorn-v/cordova-promisify",
+  "name": "cordova-promisify",
   "version": "1.0.0",
   "description": "Analog of nodejs util.promisify for cordova",
   "main": "index.js",
